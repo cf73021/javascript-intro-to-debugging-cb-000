@@ -1,3 +1,3 @@
 function sayHey(){
-  
+  return "Hey!"
 }
